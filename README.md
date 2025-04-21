@@ -27,5 +27,5 @@ Contributions are welcome! Please submit a pull request or open an issue to disc
 
 
 ## Contact Information
-Maintainer: Atharva Pawar
+Maintainer: Atharva Pawar /n
 Email: atharvapawar@gmail.com
